@@ -1,3 +1,4 @@
+// Q 1.Write a program to implement the solution of dining philosopher problem.
 #include<stdio.h>
 #include<unistd.h>
 #include<stdlib.h>
